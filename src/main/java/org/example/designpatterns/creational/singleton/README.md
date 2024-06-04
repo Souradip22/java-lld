@@ -114,7 +114,7 @@ Reduces the overhead of acquiring a lock by first checking if the instance is al
 - In a multi-core CPU environment, each core has its own cache. Without `volatile`, there's a risk that one thread might update the `instance` variable in its local cache, while another thread reads it from main memory, resulting in inconsistent values between threads.
 - `volatile` ensures that the `instance` variable is always read from main memory, bypassing the local cache of each core, thus guaranteeing that all threads see the most up-to-date value.
 
-**Code Example**:
+**Example**:
 ```java
 public class DoubleCheckLockingSingleton {
     private static volatile DoubleCheckLockingSingleton instance;
@@ -167,6 +167,7 @@ public class BillPughSingleton {
 ### 6. Enum Singleton
 Implements the Singleton pattern using an enum type. Enums in Java are inherently singleton by design.
 <a name="enum-singleton"></a>
+
 **Pros**:
 - Simple to implement: Enums in Java guarantee that only one instance of each enum constant exists.
 - Thread-safe: Enums are inherently thread-safe due to the way they are implemented by the JVM.
