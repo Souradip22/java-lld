@@ -17,6 +17,10 @@ This repository contains various Java projects focused on low-level design (LLD)
 3. [Use Cases](#use-cases)
     - TODO
 
+### Top Design patterns:
+![Java Low Level Design](https://media.licdn.com/dms/image/D4E22AQHqx9Ir6Yjwxw/feedshare-shrink_1280/0/1698323337704?e=1720656000&v=beta&t=a8JkKuw__2Z2xahU5EKOwGjxv2s1Bd7ZsJOcWaWenBU)
+
+
 
 ## Getting Started
 
