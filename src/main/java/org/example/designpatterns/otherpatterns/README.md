@@ -1,1 +1,1 @@
-
+# Other useful Design Patterns
