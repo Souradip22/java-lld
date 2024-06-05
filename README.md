@@ -19,7 +19,7 @@ To get started with the projects in this repository:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/java-lld.git
+    git clone https://github.com/Souradip22/java-lld.git
     ```
 
 2. Navigate to the project directory:
