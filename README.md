@@ -7,9 +7,15 @@ This repository contains various Java projects focused on low-level design (LLD)
 ## Table of Contents
 
 1. [Design Patterns](#design-patterns)
-    - [Singleton Pattern](#singleton-pattern)
-    - [Observer Pattern](#observer-pattern)
-2. [Use Cases](#use-cases)
+    - [Creational Patterns](src/main/java/org/example/designpatterns/creational)
+        - [Singleton Pattern](src/main/java/org/example/designpatterns/creational/singleton/README.md)
+    - [Behavioral Patterns](src/main/java/org/example/designpatterns/behavioral)
+        - [Observer Pattern](src/main/java/org/example/designpatterns/behavioral/observer/README.md)
+    - [Structural Patterns](src/main/java/org/example/designpatterns/structural)
+        - [Pattern Name](src/main/java/org/example/designpatterns/structural/patternname/README.md)
+    - [Other Useful Patterns](#other-useful-patterns)
+        - [Pattern Name](src/main/java/org/example/designpatterns/other/patternname/README.md)
+3. [Use Cases](#use-cases)
     - TODO
 
 
