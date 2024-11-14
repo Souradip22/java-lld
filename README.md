@@ -2,45 +2,51 @@
 
 ## Overview
 
-This repository contains various Java projects focused on low-level design (LLD) concepts. It includes implementations of different design patterns, as well as specific use cases such as a coffee machine and parking lot system.
+In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.
 
-## Table of Contents
+- Creational design patterns - these  patterns are all about creating objects. Io other words this design patterns are used for instantiation of objects.
+- Structural design patterns - these design patterns for composition of objects and classes. With Structural design patterns use inheritnace to compose interfaces.
+- Behavioral design patterns - these patterns all about communication of objects of classes. BDPs conserned mostly about communication of objects of spesific classes.
 
-1. [Design Patterns](#design-patterns)
-    - [Creational Patterns](src/main/java/org/example/designpatterns/creational)
-        - [Singleton Pattern](src/main/java/org/example/designpatterns/creational/singleton)
-    - [Behavioral Patterns](src/main/java/org/example/designpatterns/behavioral)
-        - [Observer Pattern](src/main/java/org/example/designpatterns/behavioral/observerpattern)
-    - [Structural Patterns](src/main/java/org/example/designpatterns/structural)
-    - [Other Useful Patterns](src/main/java/org/example/designpatterns/otherpatterns)
-        - [Combinator Pattern](src/main/java/org/example/designpatterns/otherpatterns/combinatorpattern)
-3. [Use Cases](#use-cases)
-    - TODO
+| [Creational Patterns](src/main/java/org/example/designpatterns/creational)           |[Structural Patterns](src/main/java/org/example/designpatterns/structural)| [Behavioral Patterns](src/main/java/org/example/designpatterns/behavioral) | [Other Useful Patterns](src/main/java/org/example/designpatterns/otherpatterns) |
+|--------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------------------|----------------------|
+| Abstract Factory                                                                     | Adapter | Chain of responsibility                                                                 | ✅ [Combinator Pattern](src/main/java/org/example/designpatterns/otherpatterns/combinatorpattern)
+| Builder                                                                              | Bridge | Command                                                                                 |
+| Factory Method                                                                       | Composite | Interpreter                                                                             |
+| Object Pool                                                                          | Decorator | Mediator                                                                                |
+| Prototype                                                                            | Facade | Memento                                                                                 |
+| ✅ [Singleton Pattern](src/main/java/org/example/designpatterns/creational/singleton) | flyweight | Null Object                                                                             |
+|                                                                                      | Private Class Data | ✅ [Observer Pattern](src/main/java/org/example/designpatterns/behavioral/observerpattern) |
+|                                                                                      | Proxy | State                                                                                   |
+|                                                                                      |  | Strategy                                                                                |
+|                                                                                      |  | Template Method                                                                         |
+|                                                                                      |  | Visitor                                                                                 |
+
 
 ### Top Design patterns:
 ![Java Low Level Design](https://media.licdn.com/dms/image/D4E22AQHqx9Ir6Yjwxw/feedshare-shrink_1280/0/1698323337704?e=1720656000&v=beta&t=a8JkKuw__2Z2xahU5EKOwGjxv2s1Bd7ZsJOcWaWenBU)
 *Source: [amigoscode.com](https://www.amigoscode.com/)
 
 
-## Getting Started
+## Related Resources
 
-To get started with the projects in this repository:
+Here you may find related documetations and video lessons which would be useful for you to gain new knowledge.
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Souradip22/java-lld.git
-    ```
-
-2. Navigate to the project directory:
-    ```bash
-    cd java-lld
-    ```
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the existing coding standards and includes appropriate tests.
+- [Design Patterns (Christopher Okhravi)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
+- [YT - Concept & Coding (Shyaransh Jain)](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
+- [Java Design Patterns and Architecture (Udemy free course)](https://www.udemy.com/course/java-design-patterns-tutorial/)
 
 
-## Contact
+## Important PDFs/Books 📚
 
-For any questions or suggestions, please feel free to open an issue or contact me at [souradip.chandra97@gmail.com](mailto:souradip.chandra97@gmail.com).
+|No|Name|Resource|Page|Status|
+|---|---|---|---|---|
+|1.| Head First Design Patterns|[Head First Design Patterns](https://github.com/abbos0123/Design-Patterns/blob/main/heaf-first-desighn%20patterns.pdf)|677|:white_check_mark:|
+|2.|Elements of Reusable Object-Oriented Software|[Elements of Reusable Object-Oriented Software](https://github.com/abbos0123/Design-Patterns/blob/main/Elements%20of%20Resusable%20Object-Oriented%20Software.pdf)|417|:book:|
+|3.|Dive into Design Patterns|[Dive into Design Patterns](https://github.com/abbos0123/Design-Patterns/blob/main/Dive%20into%20Design%20Patterns.pdf)|410|:book:|
+|4.|Head First Object-Oriented Analysis and Design|[Head First Object-Oriented Analysis and Design](https://github.com/abbos0123/Design-Patterns/blob/main/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)|603|:hourglass:|
+|5.|Patterns of Enterprise Application Architecture|[Patterns of Enterprise Application Architecture](https://github.com/abbos0123/Design-Patterns/blob/main/Patterns%20of%20Enterprise%20Application%20Architecture.pdf)|389|:hourglass:|
+
+
+
+
