@@ -1,9 +1,3 @@
-Perfect!  
-I’ll **teach you Memento Pattern step-by-step**, in **simple language**, starting from basics to advanced! 🚀  
-Let’s go slowly so you can **easily remember** it forever.
-
----
-
 # 🧠 Step 1: What is the Memento Pattern?
 
 - **Memento Pattern** is about **saving and restoring** an object's **state**.
