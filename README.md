@@ -8,19 +8,19 @@ In software engineering, a design pattern is a general repeatable solution to a 
 - Structural design patterns - these design patterns for composition of objects and classes. With Structural design patterns use inheritnace to compose interfaces.
 - Behavioral design patterns - these patterns all about communication of objects of classes. BDPs conserned mostly about communication of objects of spesific classes.
 
-| [Creational Patterns](src/main/java/org/example/designpatterns/creational)          |[Structural Patterns](src/main/java/org/example/designpatterns/structural)| [Behavioral Patterns](src/main/java/org/example/designpatterns/behavioral)        | [Other Useful Patterns](src/main/java/org/example/designpatterns/otherpatterns) |
-|-------------------------------------------------------------------------------------|----|-----------------------------------------------------------------------------------|----------------------|
-| Abstract Factory                                                                    | Adapter | Chain of responsibility                                                           | ✅ [Combinator](src/main/java/org/example/designpatterns/otherpatterns/combinatorpattern)
-| Builder                                                                             | Bridge | Command                                                                           |
-| Factory Method                                                                      | Composite | Interpreter                                                                       |
-| Object Pool                                                                         | Decorator | Mediator                                                                          |
-| Prototype                                                                           | Facade | ✅ [Memento](src/main/java/org/example/designpatterns/behavioral/mementopattern)   |
-| ✅ [Singleton](src/main/java/org/example/designpatterns/creational/singleton) | flyweight | Null Object                                                                       |
-|                                                                                     | Private Class Data | ✅ [Observer](src/main/java/org/example/designpatterns/behavioral/observerpattern) |
-|                                                                                     | Proxy | State                                                                             |
-|                                                                                     |  | ✅ [Strategy](src/main/java/org/example/designpatterns/behavioral/strategypattern) |
-|                                                                                     |  | Template Method                                                                   |
-|                                                                                     |  | Visitor                                                                           |
+| [Creational Patterns](src/main/java/org/example/designpatterns/creational)          |[Structural Patterns](src/main/java/org/example/designpatterns/structural)| [Behavioral Patterns](src/main/java/org/example/designpatterns/behavioral)                     | [Other Useful Patterns](src/main/java/org/example/designpatterns/otherpatterns) |
+|-------------------------------------------------------------------------------------|----|------------------------------------------------------------------------------------------------|----------------------|
+| Abstract Factory                                                                    | Adapter | Chain of responsibility                                                                        | ✅ [Combinator](src/main/java/org/example/designpatterns/otherpatterns/combinatorpattern)
+| Builder                                                                             | Bridge | ✅ [Command](src/main/java/org/example/designpatterns/behavioral/commandpattern)                |
+| Factory Method                                                                      | Composite | ✅ [Iterator](src/main/java/org/example/designpatterns/behavioral/iteratorpattern)              |
+| Object Pool                                                                         | Decorator | Mediator                                                                                       |
+| Prototype                                                                           | Facade | ✅ [Memento](src/main/java/org/example/designpatterns/behavioral/mementopattern)                |
+| ✅ [Singleton](src/main/java/org/example/designpatterns/creational/singleton) | flyweight | Null Object                                                                                    |
+|                                                                                     | Private Class Data | ✅ [Observer](src/main/java/org/example/designpatterns/behavioral/observerpattern)              |
+|                                                                                     | Proxy | ✅ [State](src/main/java/org/example/designpatterns/behavioral/statepattern)                    |
+|                                                                                     |  | ✅ [Strategy](src/main/java/org/example/designpatterns/behavioral/strategypattern)              |
+|                                                                                     |  | ✅ [Template Method](src/main/java/org/example/designpatterns/behavioral/templatemethodpattern) |
+|                                                                                     |  | Visitor                                                                                        |
 
 
 ### Top Design patterns:
