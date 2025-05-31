@@ -8,10 +8,10 @@ In software engineering, a design pattern is a general repeatable solution to a 
 - Structural design patterns - these design patterns for composition of objects and classes. With Structural design patterns use inheritnace to compose interfaces.
 - Behavioral design patterns - these patterns all about communication of objects of classes. BDPs conserned mostly about communication of objects of spesific classes.
 
-| Creational Patterns                       |Structural Patterns| Behavioral Patterns                    | Other Useful Patterns |
+| Creational Patterns                                                                              |Structural Patterns| Behavioral Patterns                    | Other Useful Patterns |
 |--------------------------------------------------------------------------------------------------|----|------------------------------------------------------------------------------------------------|----------------------|
 | ✅ [Abstract Factory](src/main/java/org/example/designpatterns/creational/abstractfactorypattern) | Adapter | Chain of responsibility                                                                        | ✅ [Combinator](src/main/java/org/example/designpatterns/otherpatterns/combinatorpattern)
-| Builder                                                                                          | Bridge | ✅ [Command](src/main/java/org/example/designpatterns/behavioral/commandpattern)                |
+| ✅ [Builder](src/main/java/org/example/designpatterns/creational/builderpattern)                  | Bridge | ✅ [Command](src/main/java/org/example/designpatterns/behavioral/commandpattern)                |
 | ✅ [Factory Method](src/main/java/org/example/designpatterns/creational/factory)                  | Composite | ✅ [Iterator](src/main/java/org/example/designpatterns/behavioral/iteratorpattern)              |
 | Object Pool                                                                                      | Decorator | ✅ [Mediator](src/main/java/org/example/designpatterns/behavioral/mediatorpattern)              |
 | Prototype                                                                                        | Facade | ✅ [Memento](src/main/java/org/example/designpatterns/behavioral/mementopattern)                |
