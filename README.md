@@ -13,7 +13,7 @@ In software engineering, a design pattern is a general repeatable solution to a 
 | Abstract Factory                                                                    | Adapter | Chain of responsibility                                                                        | ✅ [Combinator](src/main/java/org/example/designpatterns/otherpatterns/combinatorpattern)
 | Builder                                                                             | Bridge | ✅ [Command](src/main/java/org/example/designpatterns/behavioral/commandpattern)                |
 | Factory Method                                                                      | Composite | ✅ [Iterator](src/main/java/org/example/designpatterns/behavioral/iteratorpattern)              |
-| Object Pool                                                                         | Decorator | Mediator                                                                                       |
+| Object Pool                                                                         | Decorator | ✅ [Mediator](src/main/java/org/example/designpatterns/behavioral/mediatorpattern)              |
 | Prototype                                                                           | Facade | ✅ [Memento](src/main/java/org/example/designpatterns/behavioral/mementopattern)                |
 | ✅ [Singleton](src/main/java/org/example/designpatterns/creational/singleton) | flyweight | Null Object                                                                                    |
 |                                                                                     | Private Class Data | ✅ [Observer](src/main/java/org/example/designpatterns/behavioral/observerpattern)              |
@@ -30,7 +30,7 @@ In software engineering, a design pattern is a general repeatable solution to a 
 
 ## Related Resources
 
-Here you may find related documetations and video lessons which would be useful for you to gain new knowledge.
+Here you may find related documentations and video lessons which would be useful for you to gain new knowledge.
 
 - [Design Patterns (Christopher Okhravi)](https://www.youtube.com/watch?v=v9ejT8FO-7I&list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 - [YT - Concept & Coding (Shyaransh Jain)](https://www.youtube.com/watch?v=rliSgjoOFTs&list=PL6W8uoQQ2c61X_9e6Net0WdYZidm7zooW)
