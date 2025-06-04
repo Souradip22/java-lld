@@ -14,7 +14,7 @@ In software engineering, a design pattern is a general repeatable solution to a 
 | ✅ [Builder](src/main/java/org/example/designpatterns/creational/builderpattern)                  | Bridge | ✅ [Command](src/main/java/org/example/designpatterns/behavioral/commandpattern)                |
 | ✅ [Factory Method](src/main/java/org/example/designpatterns/creational/factory)                  | Composite | ✅ [Iterator](src/main/java/org/example/designpatterns/behavioral/iteratorpattern)              |
 | Object Pool                                                                                      | Decorator | ✅ [Mediator](src/main/java/org/example/designpatterns/behavioral/mediatorpattern)              |
-| Prototype                                                                                        | Facade | ✅ [Memento](src/main/java/org/example/designpatterns/behavioral/mementopattern)                |
+| ✅ [Prototype](src/main/java/org/example/designpatterns/creational/prototypepattern)              | Facade | ✅ [Memento](src/main/java/org/example/designpatterns/behavioral/mementopattern)                |
 | ✅ [Singleton](src/main/java/org/example/designpatterns/creational/singleton)                     | flyweight | Null Object                                                                                    |
 |                                                                                                  | Private Class Data | ✅ [Observer](src/main/java/org/example/designpatterns/behavioral/observerpattern)              |
 |                                                                                                  | Proxy | ✅ [State](src/main/java/org/example/designpatterns/behavioral/statepattern)                    |
