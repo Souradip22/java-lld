@@ -1,4 +1,4 @@
-package org.example.designpatterns.projects.airlinetrafficmanagement;
+package org.example.projects.airlinetrafficmanagement;
 
 import java.util.Scanner;
 

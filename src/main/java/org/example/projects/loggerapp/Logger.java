@@ -1,4 +1,4 @@
-package org.example.designpatterns.projects.loggerapp;
+package org.example.projects.loggerapp;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
