@@ -25,12 +25,11 @@ In software engineering, a design pattern is a general repeatable solution to a 
 Projects practice:
 
 - ✅ [Car Rental](src/main/java/org/example/projects/carrentalsystem)
-
 - ✅ [Parking lot](src/main/java/org/example/projects/parkinglotsystem)
-
 - ✅ [Online food delivery](src/main/java/org/example/projects/onlinefooddelivery)
 - ✅ [Stack Overflow](src/main/java/org/example/projects/stackoverflow)
 - ✅ [Vending Machine](src/main/java/org/example/projects/vendingmachine)
+- ✅ [Task Management System](src/main/java/org/example/projects/taskmanagementsystem)
 
 
 
