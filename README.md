@@ -22,6 +22,15 @@ In software engineering, a design pattern is a general repeatable solution to a 
 |                                                                                                  |                                                                                     | ✅ [Template Method](src/main/java/org/example/designpatterns/behavioral/templatemethodpattern) |
 |                                                                                                  |                                                                                     | Visitor                                                                                        |
 
+Projects practice:
+
+✅ [Car Rental](src/main/java/org/example/projects/carrentalsystem)
+✅ [Parking lot](src/main/java/org/example/projects/parkinglotsystem)
+✅ [Online food delivery](src/main/java/org/example/projects/onlinefooddelivery)
+✅ [Stack Overflow](src/main/java/org/example/projects/stackoverflow)
+✅ [Vending Machine](src/main/java/org/example/projects/vendingmachine)
+
+
 
 ### Top Design patterns:
 ![Java Low Level Design](https://media.licdn.com/dms/image/D4E22AQHqx9Ir6Yjwxw/feedshare-shrink_1280/0/1698323337704?e=1720656000&v=beta&t=a8JkKuw__2Z2xahU5EKOwGjxv2s1Bd7ZsJOcWaWenBU)
