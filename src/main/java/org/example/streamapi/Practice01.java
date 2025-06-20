@@ -1,9 +1,6 @@
 package org.example.streamapi;
 
-import java.util.Comparator;
-import java.util.IntSummaryStatistics;
-import java.util.List;
-import java.util.Optional;
+import java.util.*;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
@@ -194,5 +191,14 @@ public class Practice01 {
                         course.getReviewScore() + " - " + course.getNoOfStudents()
         );
         courses.forEach(printCourseDetails);
+        System.out.println();
+
+        // 23. Find highest rated course in each category
+        System.out.println("Find highest rated course in each category");
+        Map<String, Optional<Course>> highestRatesCourseMap = courses.stream().collect(
+                Collectors.groupingBy(Course::getCategory,
+                        Collectors.maxBy(Comparator.comparing(Course::getReviewScore)))
+        );
+        System.out.println(highestRatesCourseMap);
     }
 }
