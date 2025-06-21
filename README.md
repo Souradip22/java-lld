@@ -32,11 +32,15 @@ Projects practice:
 - ✅ [Task Management System](src/main/java/org/example/projects/taskmanagementsystem)
 
 
-GAMES:
-
+Games:
 - ✅ [Snake Ladder Game](src/main/java/org/example/projects/snakeladdergame)
 
 
+Multi-Threading and Concurrency
+- ✅ [Producer-Consumer problem](src/main/java/org/example/projects/producerconsumerproblem)
+
+Stream API examples:
+- ✅ [Important Stream API examples](src/main/java/org/example/streamapi)
 
 ### Top Design patterns:
 ![Java Low Level Design](https://media.licdn.com/dms/image/D4E22AQHqx9Ir6Yjwxw/feedshare-shrink_1280/0/1698323337704?e=1720656000&v=beta&t=a8JkKuw__2Z2xahU5EKOwGjxv2s1Bd7ZsJOcWaWenBU)
