@@ -1,11 +1,11 @@
-package org.example.multithreading.producerconsumerproblem;
+package org.example.multithreading.producerconsumerwithlock;
 
-public class ProducerConsumerDemo {
+import java.util.concurrent.locks.ReentrantLock;
+
+public class ProducerConsumerLockDemo {
     public static void main(String[] args) {
-
-//        Producer acquires lock ➜ Queue Full ➜ wait() ➜ Releases lock
-//        Consumer acquires lock ➜ Consumes item ➜ notify() ➜ Producer wakes
-        SharedResource resource = new SharedResource(3);
+        ReentrantLock lock = new ReentrantLock();
+        SharedResource resource = new SharedResource(3, lock);
 
         Thread producerThread = new Thread(()->{
             for (int i = 0; i < 6; i++) {
