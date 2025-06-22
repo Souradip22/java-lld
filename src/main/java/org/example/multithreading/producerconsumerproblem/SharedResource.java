@@ -1,4 +1,4 @@
-package org.example.projects.producerconsumerproblem;
+package org.example.multithreading.producerconsumerproblem;
 
 import java.util.LinkedList;
 import java.util.Queue;

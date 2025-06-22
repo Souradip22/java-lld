@@ -37,7 +37,12 @@ Games:
 
 
 Multi-Threading and Concurrency
-- ✅ [Producer-Consumer problem](src/main/java/org/example/projects/producerconsumerproblem)
+- ✅ [ReentrantLoack](src/main/java/org/example/multithreading/reentrantlock)
+- ✅ [ReadWriteLock](src/main/java/org/example/multithreading/reentrantreadwritelock)
+- ✅ [StampedLock](src/main/java/org/example/multithreading/stampedlock)
+- ✅ [SemaphoreLock](src/main/java/org/example/multithreading/semaphorelock)
+- ✅ [Producer-Consumer problem using synchronized](src/main/java/org/example/multithreading/producerconsumerproblem)
+
 
 Stream API examples:
 - ✅ [Important Stream API examples](src/main/java/org/example/streamapi)

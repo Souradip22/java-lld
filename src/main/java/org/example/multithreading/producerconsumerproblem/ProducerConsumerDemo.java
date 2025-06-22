@@ -1,4 +1,4 @@
-package org.example.projects.producerconsumerproblem;
+package org.example.multithreading.producerconsumerproblem;
 
 public class ProducerConsumerDemo {
     public static void main(String[] args) {
