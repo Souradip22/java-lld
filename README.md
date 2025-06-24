@@ -43,6 +43,7 @@ Multi-Threading and Concurrency
 - ✅ [SemaphoreLock](src/main/java/org/example/multithreading/semaphorelock)
 - ✅ [Producer-Consumer problem using synchronized](src/main/java/org/example/multithreading/producerconsumerwithsynchronized)
 - ✅ [Producer-Consumer problem using Lock](src/main/java/org/example/multithreading/producerconsumerwithlock)
+- ✅ [ThreadPoolExecutor + Future + CompletableFuture + Executors](src/main/java/org/example/multithreading/threadpoolexecutor)
 
 
 Stream API examples:
