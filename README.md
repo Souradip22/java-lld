@@ -30,6 +30,7 @@ Projects practice:
 - ✅ [Stack Overflow](src/main/java/org/example/projects/stackoverflow)
 - ✅ [Vending Machine](src/main/java/org/example/projects/vendingmachine)
 - ✅ [Task Management System](src/main/java/org/example/projects/taskmanagementsystem)
+- ✅ [Movie Booking System](src/main/java/org/example/projects/movieticketbooking)
 
 
 Games:
