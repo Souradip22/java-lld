@@ -31,6 +31,7 @@ Projects practice:
 - ✅ [Vending Machine](src/main/java/org/example/projects/vendingmachine)
 - ✅ [Task Management System](src/main/java/org/example/projects/taskmanagementsystem)
 - ✅ [Movie Booking System](src/main/java/org/example/projects/movieticketbooking)
+- ✅ [Pub-Sub System](src/main/java/org/example/projects/pubsubsystem)
 
 
 Games:
