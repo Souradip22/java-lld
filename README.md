@@ -33,6 +33,7 @@ Projects practice:
 - ✅ [Movie Booking System](src/main/java/org/example/projects/movieticketbooking)
 - ✅ [Pub-Sub System](src/main/java/org/example/projects/pubsubsystem)
 - ✅ [Splitwise](src/main/java/org/example/projects/splitwise) 
+- ✅ [Facebook - Social Networking App](src/main/java/org/example/projects/socialappfacebook) 
 
 
 Games:
